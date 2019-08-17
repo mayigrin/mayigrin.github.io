@@ -68,7 +68,7 @@ h4 {
 }
 
 p {
-  color: #878787;
+  color: #696969;
   font-size: 16px;
   font-weight: normal;
   line-height: 25px;
@@ -277,7 +277,7 @@ a:hover, a:active, a:focus {
 
 .about-text > p{
 	font-size:14px;
-	color:rgba(0,0,0,.4);
+	color:rgba(0,0,0,.6);
 	line-height:1.8em;
 }
 .about-text{
@@ -377,7 +377,7 @@ a.btn-custom{
 	text-transform:uppercase;
 }
 .info-list > li > span{
-	color:rgba(0,0,0,.4);
+	color:rgba(0,0,0,.6);
 }
 
 .bg-grey .fa {
@@ -433,7 +433,7 @@ a.btn-custom{
 	padding-left:40px;
 	margin-bottom:40px;
 	font-size:14px;
-	color:rgba(0,0,0,.4);
+	color:rgba(0,0,0,.6);
 	line-height:1.8em;
 }
 .timeline > li:last-of-type{
@@ -471,7 +471,7 @@ a.btn-custom{
 .timeline > li > .timeline-content > em{
 	margin-bottom:10px;
 	display:block;
-	color:rgba(0,0,0,.6);
+	color:rgba(0,0,0,.8);
 }
 .timeline > li > .timeline-content > em > span{
 	margin-right:10px;
@@ -479,7 +479,7 @@ a.btn-custom{
 .timeline > li > .timeline-content > p{
 	margin:0;
 	line-height:1.6em;
-	color:rgba(0,0,0,.4);
+	color:rgba(0,0,0,.6);
 }
 
 
