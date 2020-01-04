@@ -160,8 +160,8 @@ a:hover, a:active, a:focus {
   padding-bottom: 80px;
 }
 
-#service, #work, #contact {
-  background: #f9f9f9;
+#about, #contact {
+  background: #f0f7ff;
 }
 
 
@@ -243,7 +243,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 .service-thumb {
-  background: #ffffff;
+  background: #2b2b2b;
   border-radius: 5px;
   padding: 42px 22px;
   cursor: crosshair;
@@ -254,13 +254,13 @@ a:hover, a:active, a:focus {
 }
 
 .service-thumb:hover {
-  background: #2b2b2b;
+  background: #ffffff;
   top: -5px;
 }
 
 .service-thumb:hover .fa,
 .service-thumb:hover h4 {
-  color: #ffffff;
+  color: #2b2b2b;
 }
 
 .service-thumb h4 {
@@ -268,7 +268,7 @@ a:hover, a:active, a:focus {
 }
 
 .service-thumb .fa {
-  color: #7682cc;
+  color: #ffffff;
   font-size: 62px;
   text-align: center;
   margin-top: 32px;
@@ -572,7 +572,7 @@ a.btn-custom{
 -----------------------------------------*/
 
 footer {
-  background: #7682cc;
+  background: #2b2b2b;
   text-align: center;
   padding: 120px 0;
 }
@@ -591,7 +591,7 @@ footer p {
   position: relative;
   padding: 0;
   margin: 0;
-  text-align: center;
+  text-align: left;
 }
 
 .social-icon li {
