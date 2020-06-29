@@ -67,6 +67,10 @@ h4 {
   font-size: 20px;
 }
 
+h6 {
+  margin: 2px 2px;
+}
+
 p {
   color: #696969;
   font-size: 16px;
@@ -267,6 +271,38 @@ a:hover, a:active, a:focus {
   padding-bottom: 5px;
 }
 
+.skill-container {
+  margin-top: 20px;
+}
+
+.skill {
+  margin-right: 10px;
+  padding: 2px 7px;
+  border-style: solid;
+  border-radius: 2em;
+  border-color: #d9d9d9;
+  background: #2b2b2b;
+  color: #d9d9d9;
+}
+
+.skill:hover {
+  border-color: #2b2b2b;
+  background: #d9d9d9;
+  color: #2b2b2b;
+}
+
+.service-thumb:hover .skill {
+  border-color: #2b2b2b;
+  background: #d9d9d9;
+  color: #2b2b2b;
+}
+
+.service-thumb:hover .skill:hover {
+  border-color: #d9d9d9;
+  background: #2b2b2b;
+  color: #d9d9d9;
+}
+
 .service-thumb .fa {
   color: #ffffff;
   font-size: 62px;
@@ -383,7 +419,6 @@ a.btn-custom{
 .bg-grey .fa {
   color: #ffffff;
 }
-
 
 
 /*---------------------------------------
