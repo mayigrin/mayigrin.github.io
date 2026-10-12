@@ -1,0 +1,6 @@
+# GitHub Pages builds this repo with Jekyll. Anything listed here is kept out of
+# the published site (the old site stays in the repo for reference, but is not served).
+exclude:
+  - ARCHIVE
+  - README.md
+  - LICENSE
